@@ -2,7 +2,7 @@
 
 ## About
 
-This repository provides the official implementation and experimental data for:
+This repository provides the implementation and experimental data for:
 
 > **"Surrogate-assisted evolutionary algorithm with decomposition-based local learning for high-dimensional multi-objective optimization"**  
 > *Shen, J., et al. (2024). Expert Systems with Applications, 240, 122575.*
