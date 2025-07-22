@@ -1,6 +1,16 @@
-Surrogate-assisted evolutionary algorithm with decomposition-based local learning for high-dimensional multi-objective optimization. (SAEA-DBLL)
+# SAEA-DBLL: Surrogate-Assisted Evolutionary Algorithm with Decomposition-Based Local Learning
 
-This repository contains the source code and experimental data for the following paper:
-Shen, Jiangtao, et al. "Surrogate-assisted evolutionary algorithm with decomposition-based local learning for high-dimensional multi-objective optimization." Expert Systems with Applications 240 (2024): 122575.
+## About
+
+This repository provides the official implementation and experimental data for:
+
+> **"Surrogate-assisted evolutionary algorithm with decomposition-based local learning for high-dimensional multi-objective optimization"**  
+> *Shen, J., et al. (2024). Expert Systems with Applications, 240, 122575.*
+
+## Features
+- 🚀 High-dimensional optimization capability
+- 🧩 Decomposition-based local learning
+- 📊 Comprehensive benchmark results
+- 🧪 Reproducible experimental setup
 
 If you find our work useful, please cite this paper.
