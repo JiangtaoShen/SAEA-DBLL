@@ -9,7 +9,7 @@ This repository provides the implementation and experimental data for:
 
 ## Features
 - 🚀 High-dimensional optimization capability
-- 🧩 Decomposition-based local learning
+- 🧩 Decomposition-based local learning for multi-objective
 - 📊 Comprehensive benchmark results
 - 🧪 Reproducible experimental setup
 
