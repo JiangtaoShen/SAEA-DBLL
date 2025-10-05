@@ -12,5 +12,3 @@ This repository provides the implementation and experimental data for:
 - 🧩 Decomposition-based local learning for multi-objective
 - 📊 Comprehensive benchmark results
 - 🧪 Reproducible experimental setup
-
-If you find our work useful, please cite this paper.
